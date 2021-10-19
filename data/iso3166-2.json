@@ -604,23 +604,6 @@
                 }
             },
             {
-                "name": "Oruzgan",
-                "names": {
-                    "geonames": "Oruzgan",
-                    "en": "Oruzgan"
-                },
-                "iso": "ORU",
-                "fips": "39",
-                "admin": "39",
-                "reference": {
-                    "geonames": 1131461,
-                    "openstreetmap": 1674993,
-                    "openstreetmap_level": 4,
-                    "wikipedia": null,
-                    "wof": "85667541"
-                }
-            },
-            {
                 "name": "Urozgan Province",
                 "names": {
                     "geonames": "Oruzgan",
@@ -59605,8 +59588,8 @@
                     "zh": "西岸大区"
                 },
                 "iso": "WTC",
-                "fips": "F1",
-                "admin": "F1",
+                "fips": "G3",
+                "admin": "G3",
                 "reference": {
                     "geonames": 2190767,
                     "openstreetmap": 2643819,
